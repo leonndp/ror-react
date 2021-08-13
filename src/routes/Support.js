@@ -67,7 +67,7 @@ const SupportPage = () => {
               <Box py={5}>
                 <Button
                   component="a"
-                  href="mailto:crunch@rorpartners.com?subject=Crunch | Account Team Message"
+                  href="mailto:kent.lehnhoff@rorpartners.com?subject=Crunch | Account Team Message"
                   color="primary"
                   size="large"
                   variant="contained"
@@ -170,7 +170,7 @@ const SupportPage = () => {
               <Box py={5}>
                 <Button
                   component="a"
-                  href="mailto:crunch@rorpartners.com?subject=Crunch | Media Team Message"
+                  href="mailto:kent.lehnhoff@rorpartners.com?subject=Crunch | Media Team Message"
                   color="primary"
                   size="large"
                   variant="contained"
@@ -316,7 +316,7 @@ const SupportPage = () => {
               <Box py={5}>
                 <Button
                   component="a"
-                  href="mailto:crunch@rorpartners.com?subject=Crunch | Data Team Message"
+                  href="mailto:kent.lehnhoff@rorpartners.com?subject=Crunch | Data Team Message"
                   color="primary"
                   size="large"
                   variant="contained"
