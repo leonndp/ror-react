@@ -1,6 +1,6 @@
-import palette from "./palette"
+import palette from "./palette";
 
-export default {
+const theme = {
   overrides: {
     MuiFilledInput: {
       root: {
@@ -18,4 +18,6 @@ export default {
     fontFamily: "Sansation",
   },
   palette,
-}
+};
+
+export default theme;
